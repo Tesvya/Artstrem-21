@@ -1,0 +1,92 @@
+a
+Digital Artist
+Detail: 
+Send to: Mykie Justinianne
+Type of art: Digital
+Name: a
+Email: a@gmail.com
+Contact: 09123456789
+Describe art: adw
+Size: Small - 1000.00
+Medium: Adobe Photoshop - 1000.00
+Frame or not: Frame-500
+Message: wdsw
+Total: 2500.0
+
+
+scw
+Charcoal Artist
+Detail: 
+Send to: Zyne Adjijil
+Type of art: Charcoal
+Name: scw
+Email: a@gmail.com
+Contact: 09879238112
+Describe art: dwa
+Size: Small - 1200.00
+Medium: Charcoal Pencils - 3900.00
+Message: dwasdw
+Total: 5600.0
+
+
+a
+Landscape Artist
+Detail: 
+Send to: Gojo Saturo
+Type of art: Landscape
+Name: a
+Email: i@gmail.com
+Contact: 09879238125
+Describe art: wac
+Size: Medium - 2200.00
+Medium: Acrylic Paint - 3900.00
+Message: dwdw
+Total: 6600.0
+
+
+scw
+Portrait Artist
+Detail: 
+Send to: Kurisu Makise
+Type of art: Portrait
+Name: scw
+Email: k@gmail.com
+Contact: 09879238198
+Describe art: wda
+Size: Large - 3500.00
+Medium: Pastels - 600.00
+Message: dw
+Total: 600.0
+
+
+asd
+Digital Artist
+Detail: 
+Send to: Mykie Justinianne
+Type of art: Digital
+Name: asd
+Email: a@q
+Contact: 09121212121
+Describe art: asd
+Size: Select
+Medium: Adobe Photoshop - 1000.00
+Frame or not: Frame-500
+Message: asd
+Total: 1500.0
+
+
+asd
+Charcoal
+Detail: 
+Send to: Charlyn Mira
+Type of art: Charcoal
+Name: asd
+Email: asd@gmail.com
+Contact: 12121212121
+Describe art: asd
+Size: Small - 1200.00
+Medium: Charcoal Sticks - 300.00
+Message: asd
+Total: 2500.0
+
+
